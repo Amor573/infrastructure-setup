@@ -1,0 +1,8 @@
+vsphere_server        = ""        
+vsphere_user          = ""
+vsphere_password      = ""
+datacenter            = "ha-datacenter"      
+datastore             = "Devops-DellEMC_Datastore"
+network_app_ingress   = "DevOps_Ingress_VLAN60"
+network_internal_mgmt = "DevOps_Internal_Mgmt_VLAN50"
+iso_path              = "SVR-DATASTORE/ubuntu-24.04.1-live-server-amd64.iso"
