@@ -1,0 +1,25 @@
+# Terraform working directories and generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform.tfstate.lock.info
+
+# Local credentials and environment-specific values
+*.auto.tfvars
+*.auto.tfvars.json
+*.tfvars
+*.tfvars.json
+!.terraform.tfvars.example
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
