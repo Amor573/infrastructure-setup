@@ -57,3 +57,8 @@ Never apply to a production vCenter without an approved change, adequate free ca
 - Drift detection, safe CI validation and deployment evidence
 
 *Portfolio theme: VMware, Terraform, compute provisioning, network design and infrastructure operations.*
+
+
+## Selected visual evidence
+
+See [historical evidence and its limits](VISUAL-EVIDENCE.md). These related captures do not establish that the Terraform or lab manifests in this repository were executed.
